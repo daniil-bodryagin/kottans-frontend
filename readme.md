@@ -36,11 +36,13 @@ Also in the git training app I've notised the pover of `branch -f` command. Real
 
 <details>
 <summary>Screenshots of progress</summary>
-![Coursera's Introduction to Git and GitHub - First week]()
 
-![Coursera's Introduction to Git and GitHub - Second week]()
+![Coursera's Introduction to Git and GitHub - First week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/1.jpg)
 
-![Learn git branching app - Main tasks]()
+![Coursera's Introduction to Git and GitHub - Second week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/2.jpg)
 
-![Learn git branching app - Remote tasks]()
+![Learn git branching app - Main tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/3.jpg)
+
+![Learn git branching app - Remote tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/4.jpg)
+
 </details>
