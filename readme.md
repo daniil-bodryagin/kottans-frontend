@@ -29,9 +29,12 @@ Hello, eweryone, who desided to checkout what is going on here in my github acco
 ## Git Basics
 
 I was really wondered when understood, that *.md* extension means *markdown* :-)
+
 When I faced the Gihub first time I stucked with problem I didn't understand. That appeared because I listened to recomendation of Github when created repository and added readme.md automatically. Then trying to push commits from my local repository was unsuccessful (a-ha, for sure...) - there already were two repositories with different commit history.
 But this case forsed me to understand what's goin on step by step and further learning of git moved easy.
+
 The main new features of git I found in coursera videos were in the ending: `checkout HEAD`, `commit --ammend`, `reset`, `revert`. In the "Git PRO" book the topic about restoring data from history is far from the beginning, despite it's one of the most important thing in the whole version control.
+
 Also in the git training app I've notised the pover of `branch -f` command. Really mightly.
 
 <details>
