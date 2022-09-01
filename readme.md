@@ -2,6 +2,8 @@
 
 Hello, eweryone, who desided to checkout what is going on here in my github account. My name is Daniil Bodryagin. I am an astronomer and programming "is out there" permanently during my study or work. So at last I've desided to drown in it. Here I'm going to describe my forwarding trough the course topics and mark milestones passed. In short - some routine info.
 
+Repository without a link on itself would be not elegant enough, so here it is - [**Recursion, aka Circulus vitiosus**](https://github.com/daniil-bodryagin/kottans-frontend)
+
 ### General
 
 - [x] Git Basics
