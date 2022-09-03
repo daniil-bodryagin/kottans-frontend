@@ -8,7 +8,7 @@ Repository without a link on itself would be not elegant enough, so here it is -
 
 - [x] Git Basics
 - [x] Linux CLI and Networking
-- [ ] VCS (hello gitty), GitHub and Collaboration
+- [x] VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
 
@@ -72,5 +72,24 @@ The topic of multiple resourse caching (on user's machine, on the proxy) and che
 ![Linux Survival - Third module](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_linux_cli/3.jpg)
 
 ![Linux Survival - Fourth module](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_linux_cli/4.jpg)
+
+</details>
+
+## Git Collaboration
+
+This part was interesting and sometimes challenging. The very surprising moment was that branches are only some kind on pointers which can be moved, switched between each other, etc. Also commits can be copied and disposed at any will. But I have a feeling that unlike the ordinary git flow with cycle of branching, pulling and pushing, these crazy commits-history deconstruction can bring chaos and misunderstanding. If some conditions will force me to use `cherry-pick` and things, I would do it with extremely caution.
+
+Another new thing is that remote branches in fact are local too. They only show the state of data in remote repository. Working alone I would prefer to use `merge` than `rebase`. And pushing in style `push origin main:feature` also looks dangerous.
+
+<details>
+<summary>Screenshots of progress</summary>
+
+![Coursera's Introduction to Git and GitHub - Third week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/1.jpg)
+
+![Coursera's Introduction to Git and GitHub - Fourth week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/2.jpg)
+
+![Learn git branching app - Main tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/3.jpg)
+
+![Learn git branching app - Remote tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/4.jpg)
 
 </details>
