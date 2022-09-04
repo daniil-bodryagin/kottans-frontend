@@ -93,3 +93,24 @@ Another new thing is that remote branches in fact are local too. They only show 
 ![Learn git branching app - Remote tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/4.jpg)
 
 </details>
+
+## Intro to HTML and CSS
+
+Both video-course, or Code academy excersises present basic information about html tags and css selectors. This facts for sure I will use in future work, but I must say francly, they are not new for me except a couple of trifles. 
+
+I'm pretty confused that nobody even remember about css table layout (do not mix up with html table tag!) as if it have never exist. I've read about this layout in the Head First series book and since have never meet it again. Nevertheless we have now flexbox and grid, so there no need in that old layout already - even floats now are almost useless, as I guess.
+
+The interesting method of layout is using 12-columns grid. I haven't used it before, but want to, because it look like be able to solve problems of making page adaptive without tons of media-queries.
+
+Also I've found some new html attributes and tags in html forms. This topic is immense and i still haven't mastered it despite that it's one of the most important things in html.
+
+<details>
+<summary>Screenshots of progress</summary>
+
+![Coursera's HTML, CSS, and Javascript for Web Developers - First week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/1.jpg)
+
+![Coursera's HTML, CSS, and Javascript for Web Developers - Second week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/2.jpg)
+
+![Code Academy - Learn HTML & Learn CSS](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/3.jpg)
+
+</details>
