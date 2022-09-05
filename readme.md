@@ -12,8 +12,8 @@ Repository without a link on itself would be not elegant enough, so here it is -
 
 ### Front-End Basics
 
-- [ ] Intro to HTML & CS S
-- [ ] Responsive Web Design
+- [x] Intro to HTML & CS S
+- [x] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model
@@ -42,13 +42,13 @@ Also in the git training app I've notised the pover of `branch -f` command. Real
 <details>
 <summary>Screenshots of progress</summary>
 
-![Coursera's Introduction to Git and GitHub - First week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/1.jpg)
+![Coursera's Introduction to Git and GitHub - First week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/coursera_git_first_week.jpg)
 
-![Coursera's Introduction to Git and GitHub - Second week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/2.jpg)
+![Coursera's Introduction to Git and GitHub - Second week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/coursera_git_second_week.jpg)
 
-![Learn git branching app - Main tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/3.jpg)
+![Learn git branching app - Main tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/git_branching_app_main_first_part.jpg)
 
-![Learn git branching app - Remote tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/4.jpg)
+![Learn git branching app - Remote tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git/git_branching_app_remote_first_part.jpg)
 
 </details>
 
@@ -65,13 +65,13 @@ The topic of multiple resourse caching (on user's machine, on the proxy) and che
 <details>
 <summary>Screenshots of progress</summary>
 
-![Linux Survival - First module](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_linux_cli/1.jpg)
+![Linux Survival - First module](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_linux_cli/linux_survival_module_1.jpg)
 
-![Linux Survival - Second module](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_linux_cli/2.jpg)
+![Linux Survival - Second module](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_linux_cli/linux_survival_module_2.jpg)
 
-![Linux Survival - Third module](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_linux_cli/3.jpg)
+![Linux Survival - Third module](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_linux_cli/linux_survival_module_3.jpg)
 
-![Linux Survival - Fourth module](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_linux_cli/4.jpg)
+![Linux Survival - Fourth module](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_linux_cli/linux_survival_module_4.jpg)
 
 </details>
 
@@ -84,13 +84,13 @@ Another new thing is that remote branches in fact are local too. They only show 
 <details>
 <summary>Screenshots of progress</summary>
 
-![Coursera's Introduction to Git and GitHub - Third week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/1.jpg)
+![Coursera's Introduction to Git and GitHub - Third week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/coursera_git_third_week.jpg)
 
-![Coursera's Introduction to Git and GitHub - Fourth week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/2.jpg)
+![Coursera's Introduction to Git and GitHub - Fourth week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/coursera_git_fourth_week.jpg)
 
-![Learn git branching app - Main tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/3.jpg)
+![Learn git branching app - Main tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/git_branching_app_main_second_part.jpg)
 
-![Learn git branching app - Remote tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/4.jpg)
+![Learn git branching app - Remote tasks](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_git_collaboration/git_branching_app_remote_second_part.jpg)
 
 </details>
 
@@ -107,10 +107,25 @@ Also I've found some new html attributes and tags in html forms. This topic is i
 <details>
 <summary>Screenshots of progress</summary>
 
-![Coursera's HTML, CSS, and Javascript for Web Developers - First week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/1.jpg)
+![Coursera's HTML, CSS, and Javascript for Web Developers - First week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/coursera_html_scc_first_week.jpg)
 
-![Coursera's HTML, CSS, and Javascript for Web Developers - Second week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/2.jpg)
+![Coursera's HTML, CSS, and Javascript for Web Developers - Second week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/coursera_html_scc_second_week.jpg)
 
-![Code Academy - Learn HTML & Learn CSS](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/3.jpg)
+![Code Academy - Learn HTML & Learn CSS](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/codeacademy_html_and_scc.jpg)
+
+</details>
+
+## Responsive Web Design
+
+Flexbox was already known for me but css grid, on the conrary, was completly new. The fresh useful feature I found among flexbox properties is `align-content` which is good if you don't want to have excess space between the rows.
+
+Grid is looks like the history completed the full turn and came back to the beginning but on the higher level. After the domination of fluid designs we again trying to use best practices of paper typography. I don't think that css grid is universal tool, but i'm going to use it very often. Also it's interesting for me to make some experiments and try in action such properties as `auto`, `fit-content()` and `grid-auto-flow: dense` in combination. I was surprised that css grid can automatically change tracks' sizes, but not only to render them from predefined proportion.
+
+<details>
+<summary>Screenshots of progress</summary>
+
+![Flexbox Froggy](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_responsive_web_design/flexbox_froggy.jpg)
+
+![Grid Garden](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_responsive_web_design/grid_garden.jpg)
 
 </details>
