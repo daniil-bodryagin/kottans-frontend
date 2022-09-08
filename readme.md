@@ -14,8 +14,8 @@ Repository without a link on itself would be not elegant enough, so here it is -
 
 - [x] Intro to HTML & CS S
 - [x] Responsive Web Design
-- [ ] HTML & CSS Practice
-- [ ] JavaScript Basics
+- [ ] HTML & CSS Practice - *...pending approval*
+- [x] JavaScript Basics
 - [ ] Document Object Model
 
 ### Advanced Topics
@@ -107,9 +107,9 @@ Also I've found some new html attributes and tags in html forms. This topic is i
 <details>
 <summary>Screenshots of progress</summary>
 
-![Coursera's HTML, CSS, and Javascript for Web Developers - First week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/coursera_html_scc_first_week.jpg)
+![Coursera's HTML, CSS, and Javascript for Web Developers - First week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/coursera_html_scc_js_first_week.jpg)
 
-![Coursera's HTML, CSS, and Javascript for Web Developers - Second week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/coursera_html_scc_second_week.jpg)
+![Coursera's HTML, CSS, and Javascript for Web Developers - Second week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/coursera_html_scc_js_second_week.jpg)
 
 ![Code Academy - Learn HTML & Learn CSS](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_html_css_intro/codeacademy_html_and_scc.jpg)
 
@@ -127,5 +127,33 @@ Grid is looks like the history completed the full turn and came back to the begi
 ![Flexbox Froggy](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_responsive_web_design/flexbox_froggy.jpg)
 
 ![Grid Garden](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_responsive_web_design/grid_garden.jpg)
+
+</details>
+
+## HTML-CSS-Popup
+
+[Demo](https://daniil-bodryagin.github.io/html-css-popup/)
+[Code base](https://github.com/daniil-bodryagin/html-css-popup)
+
+## JS Basics
+
+While I'm taking Kottans course I read learn.javascript at the same time. That's why I met on freecodecamp and in coursera's videos familiar things. But I wish to list the things, I've learned in general and didn't know before.
+
+Earlier I usually used very fundamental things from classical structural programming: if...else, switch...case, cycles, arrays, functions, objects - stuff which is presented in every programming language. Now I've got to my toolkit a lot of built-in methods: for the first for the arrays, strings and objects. Also destructuring assignment and rest arguments are very handy and allow to write code more quickly. Arrow functions are funny, functions, which return functions, look very powerful. I'm trying to use these instruments everytime it seems to me that they will make code shorter and clearer.
+
+But sometimes I see examples of code that in tutorials are described as more readable, but I wouldn't describe them so too. Furthermore I wouldn't even guess that this way of coding is more readable. For instance recursion is not for me more clear than a loop.
+
+The most intrigue object type I've met is a hashmap. O(1) for search is awesome. Looking for examples of use now :-)
+
+<details>
+<summary>Screenshots of progress</summary>
+
+![Coursera's HTML, CSS, and Javascript for Web Developers - Fourth week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_js_basics/coursera_html_scc_js_fourth_week.jpg)
+
+![Freecodecamp - JS Basics, ES6](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_js_basics/freecodecamp_js_basics_es6_first_part.jpg)
+
+![Freecodecamp - Basic Data Structures, Basic Algorithm Scripting](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_js_basics/freecodecamp_basic_data_structures_basic_algorithm_scripting.jpg)
+
+![Freecodecamp - Functional Programming, Intermediate Algorithm Scripting](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_js_basics/freecodecamp_functional_programming_intermediate_algorithm_scripting_first_part.jpg)
 
 </details>
