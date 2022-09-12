@@ -16,7 +16,7 @@ Repository without a link on itself would be not elegant enough, so here it is -
 - [x] Responsive Web Design
 - [ ] HTML & CSS Practice - *...pending approval*
 - [x] JavaScript Basics
-- [ ] Document Object Model
+- [ ] Document Object Model - *...pending approval*
 
 ### Advanced Topics
 
@@ -133,6 +133,7 @@ Grid is looks like the history completed the full turn and came back to the begi
 ## HTML-CSS-Popup
 
 [Demo](https://daniil-bodryagin.github.io/html-css-popup/)
+
 [Code base](https://github.com/daniil-bodryagin/html-css-popup)
 
 ## JS Basics
@@ -155,5 +156,23 @@ The most intrigue object type I've met is a hashmap. O(1) for search is awesome.
 ![Freecodecamp - Basic Data Structures, Basic Algorithm Scripting](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_js_basics/freecodecamp_basic_data_structures_basic_algorithm_scripting.jpg)
 
 ![Freecodecamp - Functional Programming, Intermediate Algorithm Scripting](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_js_basics/freecodecamp_functional_programming_intermediate_algorithm_scripting_first_part.jpg)
+
+</details>
+
+## DOM
+
+The last part of algorithm tasks on freecodecamp was very tricky. I've met again with regular expressions - very interesting and useful topic. When I will have a free time, I definitelly will dedicate it to their studing. 
+DOM maipulations were familiar for me. As I saw this operations are usually separated from core logic of applications. It's interesting, how is it implemented in frameworks - does they practice manipulate DOM objects directly?
+
+[Demo](https://daniil-bodryagin.github.io/js-dom/)
+
+[Code base](https://github.com/daniil-bodryagin/js-dom)
+
+<details>
+<summary>Screenshots of progress</summary>
+
+![Coursera's HTML, CSS, and Javascript for Web Developers - Fifth week](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_js_dom/coursera_html_scc_js_fifth_week_first_part.jpg)
+
+![Freecodecamp - Intermediate Algorithm Scripting](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_js_dom/freecodecamp_intermediate_algorithm_scripting_second_part.jpg)
 
 </details>
