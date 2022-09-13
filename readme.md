@@ -20,7 +20,7 @@ Repository without a link on itself would be not elegant enough, so here it is -
 
 ### Advanced Topics
 
-- [ ] Building a Tiny JS World (pre-OOP)
+- [ ] Building a Tiny JS World (pre-OOP) - *...pending approval*
 - [ ] Object oriented JS
 - [ ] OOP exercise
 - [ ] Offline Web Applications
@@ -164,10 +164,6 @@ The most intrigue object type I've met is a hashmap. O(1) for search is awesome.
 The last part of algorithm tasks on freecodecamp was very tricky. I've met again with regular expressions - very interesting and useful topic. When I will have a free time, I definitelly will dedicate it to their studing. 
 DOM maipulations were familiar for me. As I saw this operations are usually separated from core logic of applications. It's interesting, how is it implemented in frameworks - does they practice manipulate DOM objects directly?
 
-[Demo](https://daniil-bodryagin.github.io/js-dom/)
-
-[Code base](https://github.com/daniil-bodryagin/js-dom)
-
 <details>
 <summary>Screenshots of progress</summary>
 
@@ -176,3 +172,13 @@ DOM maipulations were familiar for me. As I saw this operations are usually sepa
 ![Freecodecamp - Intermediate Algorithm Scripting](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_js_dom/freecodecamp_intermediate_algorithm_scripting_second_part.jpg)
 
 </details>
+
+[Demo](https://daniil-bodryagin.github.io/js-dom/)
+
+[Code base](https://github.com/daniil-bodryagin/js-dom)
+
+## A Tiny JS World
+
+[Demo](https://daniil-bodryagin.github.io/a-tiny-JS-world/)
+
+[Code base](https://github.com/daniil-bodryagin/a-tiny-JS-world)
