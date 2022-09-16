@@ -21,7 +21,7 @@ Repository without a link on itself would be not elegant enough, so here it is -
 ### Advanced Topics
 
 - [ ] Building a Tiny JS World (pre-OOP) - *...pending approval*
-- [ ] Object oriented JS
+- [ ] Object oriented JS - *...pending approval*
 - [ ] OOP exercise
 - [ ] Offline Web Applications
 - [ ] Memory pair game
@@ -182,3 +182,23 @@ DOM maipulations were familiar for me. As I saw this operations are usually sepa
 [Demo](https://daniil-bodryagin.github.io/a-tiny-JS-world/)
 
 [Code base](https://github.com/daniil-bodryagin/a-tiny-JS-world)
+
+## Object Oriented JS
+
+Video about classes is clear and interesting. But it's important to be careful, as there may be a false confidence in understanding the mechanism of prototypes and its interaction with the constructor. To consolidate, it is advisable to delve into learn.javascript or something similar. Interestingly, classes have essentially limited what was previously possible with constructor functions and their prototype property (which is not at all the same as the hidden \[Prototype\] property!). Previously, it was possible to make another instance the prototype of one instance. Of course, this is fraught with consequences, so now prototypes are nameless objects that inherit from each other. Class methods are immediately sent to prototypes, while properties are passed by value to each instance (so you can't change a property in one instance and change it in all the others at the same time, since it was actually in the prototype).
+
+Codewars is an interesting site. For a long time, I thought that this kind of exercise is pretty useless, since in real development, few people deal with the millionth Fibonacci number and calculating the factorial of a thousand. But now I realized that they are very important for beginners, as they allow you to train in algorithmic thinking, in building an order of actions in your mind, in keeping sequences of what will happen in memory. And the tasks of complex levels allow you to see some of the problems that specialists face - what concerns cryptography, artificial intelligence, linear programming, and performance. By the way, the Eolimp system contains a similar database of tasks (I don’t know if Javascript is available there in the list of languages), but the easiest ones are at the level of 5-6 kyu on Codewars. Perhaps a high difficulty is not very good for beginners, but after it the problems of 7-8 kyu are not interesting at all.
+
+And now, here's my profile: [Codewars](https://www.codewars.com/users/daniil-bodryagin)
+
+<details>
+<summary>Screenshots of progress</summary>
+
+![Codewars profile](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_js_oop/Codewars_profile.jpg)
+
+</details>
+
+[Demo](https://daniil-bodryagin.github.io/frontend-nanodegree-arcade-game/)
+
+[Code base](https://github.com/daniil-bodryagin/frontend-nanodegree-arcade-game)
+
