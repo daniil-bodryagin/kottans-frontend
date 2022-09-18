@@ -22,7 +22,7 @@ Repository without a link on itself would be not elegant enough, so here it is -
 
 - [ ] Building a Tiny JS World (pre-OOP) - *...pending approval*
 - [ ] Object oriented JS - *...pending approval*
-- [ ] OOP exercise
+- [ ] OOP exercise - *...pending approval*
 - [ ] Offline Web Applications
 - [ ] Memory pair game
 - [ ] Website Performance Optimization
@@ -202,3 +202,20 @@ And now, here's my profile: [Codewars](https://www.codewars.com/users/daniil-bod
 
 [Code base](https://github.com/daniil-bodryagin/frontend-nanodegree-arcade-game)
 
+## OOP exercise (A Tiny JS World 2)
+
+When I read about OOP I always see something about three principles - inheritance, encapsulation, polymorphism - but almost nothing about object relationships - composition, aggregation, association. As I see the "intuitive" suggestions about how to find out where should we use composition and where inheritance are almost useless. We too often have deal with the problem of diamond inheritance, any-to-many relationships. Classes appearing allowed to bring into JavaScript the approach from languages with classical OOP tradition. But there is still chaos here. Old syntax lets to do some things which classes doesn't and that's why I cannot find the **main, correct** way to work with objects - idiomatic, from best practice and with good performance. 
+
+Inheritance is suffering of need for rebuilding class hierarchy if you suddenly need to cross the parallel branches. The suggestion to prefer composition over inheritance leads to memory devouring because of copying methods to all instances. Also there is mixin approach to implement multiple inheritance. Clean instruction how to write code which will not be weird is totally absent.
+
+Examples in articles show some snippets which look trickily. Sometimes I thought that it was because they were only illustrations for novices and didn't use sophisticated language abilities intentionally, having assumed that readers couldn't know them. But now I begin to suspect that they are fragments of real working code.
+
+However, reading some articles from the short list is not enough to build representation of relationships between constructor, prototype and instance. I had `learn.javascript` behind me, and it helped. Maybe there are some other guides which expound the problem fundamentally. In any case it's necessary to get ready to spend a time to figure out everything.
+
+Despite that I think I've read a lot about the topic and investigated by myself with console how constructors and prototypes work, insights occur periodically. While reading I've understood that `super` called in class constructor calls it's prototype - parent class constructor. And super called in method described in prototype applies to prototype's prototype. I've knew about this parallel inheritance prototype from prototype, constructor from constructor, but now the vision gets together.
+
+Reading about SOLID I wished not just principles describing - this is present everywhere. I wish to get explaining the exact problems which are solving by each of them (the more of them is the best), the problems which appear if principles are not satisfied. After all to understand how to write good code you should know how **must not** to write code because it would become very difficult to maintain.
+
+[Demo](https://daniil-bodryagin.github.io/a-tiny-JS-world/index-oop.html)
+
+[Code base](https://github.com/daniil-bodryagin/a-tiny-JS-world/blob/master/index-oop.js)
