@@ -20,11 +20,11 @@ Repository without a link on itself would be not elegant enough, so here it is -
 
 ### Advanced Topics
 
-- [ ] Building a Tiny JS World (pre-OOP) - *...pending approval*
+- [x] Building a Tiny JS World (pre-OOP)
 - [ ] Object oriented JS - *...pending approval*
 - [ ] OOP exercise - *...pending approval*
 - [ ] Offline Web Applications
-- [ ] Memory pair game
+- [ ] Memory pair game - *...pending approval*
 - [ ] Website Performance Optimization
 - [ ] Friends App
 
@@ -219,3 +219,9 @@ Reading about SOLID I wished not just principles describing - this is present ev
 [Demo](https://daniil-bodryagin.github.io/a-tiny-JS-world/index-oop.html)
 
 [Code base](https://github.com/daniil-bodryagin/a-tiny-JS-world/blob/master/index-oop.js)
+
+## Memory Pair Game
+
+[Demo](https://github.com/daniil-bodryagin/memory-pair-game)
+
+[Code base](https://daniil-bodryagin.github.io/memory-pair-game/)
