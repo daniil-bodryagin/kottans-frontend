@@ -21,12 +21,12 @@ Repository without a link on itself would be not elegant enough, so here it is -
 ### Advanced Topics
 
 - [x] Building a Tiny JS World (pre-OOP)
-- [ ] Object oriented JS - *...pending approval*
+- [x] Object oriented JS
 - [ ] OOP exercise - *...pending approval*
 - [ ] Offline Web Applications
 - [ ] Memory pair game - *...pending approval*
 - [ ] Website Performance Optimization
-- [ ] Friends App
+- [ ] Friends App - *...pending approval*
 
 ## Git Basics
 
@@ -225,3 +225,9 @@ Reading about SOLID I wished not just principles describing - this is present ev
 [Demo](https://github.com/daniil-bodryagin/memory-pair-game)
 
 [Code base](https://daniil-bodryagin.github.io/memory-pair-game/)
+
+## Friends App
+
+[Demo](https://daniil-bodryagin.github.io/retro-wave-club/)
+
+[Code base](https://github.com/daniil-bodryagin/retro-wave-club)
