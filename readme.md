@@ -27,6 +27,7 @@ Repository without a link on itself would be not elegant enough, so here it is -
 - [ ] Memory pair game - *...pending approval*
 - [ ] Website Performance Optimization
 - [ ] Friends App - *...pending approval*
+- [x] **Bonus** Tic Tac Toe. Voice controlled Game
 
 ## Git Basics
 
@@ -231,3 +232,11 @@ Reading about SOLID I wished not just principles describing - this is present ev
 [Demo](https://daniil-bodryagin.github.io/retro-wave-club/)
 
 [Code base](https://github.com/daniil-bodryagin/retro-wave-club)
+
+## Tic Tac Toe
+
+Voice controlled game!
+
+[Demo](https://daniil-bodryagin.github.io/tic-tac-toe/)
+
+[Code base](https://github.com/daniil-bodryagin/tic-tac-toe)
