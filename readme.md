@@ -23,7 +23,7 @@ Repository without a link on itself would be not elegant enough, so here it is -
 - [x] Building a Tiny JS World (pre-OOP)
 - [x] Object oriented JS
 - [ ] OOP exercise - *...pending approval*
-- [ ] Offline Web Applications
+- [x] Offline Web Applications
 - [ ] Memory pair game - *...pending approval*
 - [ ] Website Performance Optimization
 - [ ] Friends App - *...pending approval*
@@ -240,3 +240,13 @@ Voice controlled game!
 [Demo](https://daniil-bodryagin.github.io/tic-tac-toe/)
 
 [Code base](https://github.com/daniil-bodryagin/tic-tac-toe)
+
+## Offline Web Applications
+
+It was wonderful. This course may be considered as facile. It's indeed tells just about several methods and doesn't allow you to master service workers, cache and indexedDB on professional level. But nontheless it introduces great instruments in very short time. I've been surprised how many powerful things I can do with javascript: manual driving and redirecting the network requests, manual  filling and freeng the browser cache and even special database on the client side. I don't imagine exactly when and how is this stuff usualy used in real development but I'm sure all of it will be.
+
+<details>
+<summary>Screenshots of progress</summary>
+
+![Udacity Offline Web Applications course](https://github.com/daniil-bodryagin/kottans-frontend/blob/main/task_offline_web_app/offline_web_appications.jpg)
+</details>
